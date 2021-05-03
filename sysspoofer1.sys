@@ -1,0 +1,2 @@
+@echo off
+sysspoofer1.exe sysspoofer1.sys
